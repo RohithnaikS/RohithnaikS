@@ -23,7 +23,7 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 
 | Project | Description | Languages |
 |---------|-------------|-----------|
-| [Project1](https://github.com/RohithnaikS/NeuroSpectra-Autism-Spectrum-disorder-detection-using-ML/tree/master) | Developed an Tool to detect Autism spectrum disorder in the Early stages of a Child| Python, , FastAPI, JavaScript |
+| [Project1](https://github.com/RohithnaikS/NeuroSpectra-Autism-Spectrum-disorder-detection-using-ML/tree/master) | Developed an Tool to detect Autism spectrum disorder in the early stages of birth| Python, , FastAPI, JavaScript |
 | [Project2](https://github.com/YOUR_USERNAME/Project2) | Short description of Project2 | Java, HTML, CSS |
 | [Project3](https://github.com/YOUR_USERNAME/Project3) | Short description of Project3 | C++, Python |
 
