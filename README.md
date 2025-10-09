@@ -6,8 +6,8 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ## 🛠️ Skills & Languages
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithnaikS&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS&layout=compact&theme=radical)
 
 ---
 
@@ -23,7 +23,7 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 
 | Project | Description | Languages |
 |---------|-------------|-----------|
-| [Project1](https://github.com/YOUR_USERNAME/Project1) | Short description of Project1 | Python, JavaScript |
+| [Project1](https://github.com/RohithnaikS/NeuroSpectra-Autism-Spectrum-disorder-detection-using-ML/tree/master) | Developed an Tool to detect Autism spectrum disorder in the Early stages of a Child| Python, , FastAPI, JavaScript |
 | [Project2](https://github.com/YOUR_USERNAME/Project2) | Short description of Project2 | Java, HTML, CSS |
 | [Project3](https://github.com/YOUR_USERNAME/Project3) | Short description of Project3 | C++, Python |
 
