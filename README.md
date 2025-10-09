@@ -1,4 +1,4 @@
-# Hi, I'm Rohith 👋
+# Hi, I'm Rohith 
 
 I'm a passionate developer interested in building projects and exploring new technologies.  
 
