@@ -27,7 +27,6 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 | [Project2](https://github.com/RohithnaikS/VideoconferencingUsingWebRTC) | Developed a browser-based video conferencing application using WebRTC and Aghora API, with HTML, CSS, and JavaScript for seamless real-time video, audio, and chat functionality. | HTML, CSS, JavaScript, Aghora API |
 | [Project3](https://github.com/RohithnaikS/Elite_homeservices) | Developed a household services management system in Java and SQL, providing services such as plumbing, carpentry, and housekeeping.| C++, Python |
 
-> ⚡ You can also add your own project badges using shields.io if you want them to look fancy!
 
 ---
 
