@@ -24,7 +24,7 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 | Project | Description | Languages |
 |---------|-------------|-----------|
 | [Project1](https://github.com/RohithnaikS/NeuroSpectra-Autism-Spectrum-disorder-detection-using-ML/tree/master) | Developed an Tool to detect Autism spectrum disorder in the early stages of birth| Python, , FastAPI, JavaScript |
-| [Project2][(https://github.com/YOUR_USERNAME/Project2](https://github.com/RohithnaikS/VideoconferencingUsingWebRTC) | Developed a browser-based video conferencing application using WebRTC and Aghora API, with HTML, CSS, and JavaScript for seamless real-time video, audio, and chat functionality. | HTML, CSS, JavaScript, Aghora API |
+| [Project2](https://github.com/RohithnaikS/VideoconferencingUsingWebRTC) | Developed a browser-based video conferencing application using WebRTC and Aghora API, with HTML, CSS, and JavaScript for seamless real-time video, audio, and chat functionality. | HTML, CSS, JavaScript, Aghora API |
 | [Project3](https://github.com/YOUR_USERNAME/Project3) | Developed a household services management system in Java and SQL, providing services such as plumbing, carpentry, and housekeeping.| C++, Python |
 
 > ⚡ You can also add your own project badges using shields.io if you want them to look fancy!
