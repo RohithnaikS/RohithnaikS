@@ -14,7 +14,7 @@ I'm a passionate developer interested in building projects and exploring new tec
 ## 🌱 Currently Learning
 - AI & Machine Learning
 - Full Stack Development
-- Cybersecurity
+- Cloud Application Programming
 
 ---
 
