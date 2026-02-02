@@ -6,8 +6,7 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ## 🛠️ Skills & Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohithnaikS&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS&layout=compact" />
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithnaikS&show_icons=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS&layout=compact&theme=radical&langs_count=8)
 
 
 ---
@@ -33,4 +32,4 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohithnaikS&theme=radical&hide_border=true)
+![Rohith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohithnaikS&theme=radical)
