@@ -33,4 +33,4 @@ Here are some of my projects. You can visit my [GitHub Repositories](https://git
 
 ## 📈 GitHub Stats
 
-![Rohith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohithnaikS&theme=radical)
+![Rohith's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=RohithnaikS&theme=radical)
