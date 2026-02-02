@@ -6,7 +6,8 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ## 🛠️ Skills & Languages
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithnaikS&show_icons=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS&layout=compact&theme=radical&langs_count=8)
+![Rohith's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RohithnaikS&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS&layout=compact&theme=radical&langs_count=8)
 
 
 ---
