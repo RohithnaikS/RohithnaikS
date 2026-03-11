@@ -4,7 +4,7 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ---
 
-## 🛠️ Skills & Languages
+## 🛠️ Statistics & Languages
 
 ![Rohith's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RohithnaikS&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithnaikS)](https://github.com/RohithnaikS/github-readme-stats)
@@ -22,7 +22,7 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ## 🚀 Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,tensorflow,git,docker)
+![My Skills](https://skillicons.dev/icons?i=python,sql,java,js,html,css,fastapi,tensorflow,git,numpy,pandas)
 
 ---
 
