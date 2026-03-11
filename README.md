@@ -22,9 +22,8 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ## 🚀 Skills
 
-## 🚀 Skills
-
-![My Skills](https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,c,fastapi,pandas,numpy,sklearn,sap)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,c)
+![My Skills](https://skillicons.dev/icons?i=fastapi,pandas,numpy,sklearn,sap)
 
 ---
 
