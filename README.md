@@ -20,6 +20,12 @@ I'm a passionate developer interested in building projects and exploring new tec
 
 ---
 
+## 🚀 Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,tensorflow,git,docker)
+
+---
+
 ## 💻 Projects & Repositories
 Here are some of my projects. You can visit my [GitHub Repositories](https://github.com/RohithnaikS?tab=repositories) for more.
 
