@@ -30,6 +30,7 @@ I'm a passionate developer interested in building projects and exploring new tec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/117299792?s=280&v=4" width="48"/>
 
 </p>
 
